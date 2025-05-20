@@ -1,0 +1,15 @@
+# Conceitos sobre Microsoft Azure
+
+## 🌐 O que é computação em nuvem?
+A computação em nuvem permite o acesso a recursos computacionais de forma remota, sem necessidade de infraestrutura própria. Grandes provedores, como a Azure, oferecem serviços escaláveis e seguros.
+
+## 🏗️ Serviços da Azure
+A Azure fornece diferentes modelos de serviço, incluindo:
+- **IaaS** (Infraestrutura como Serviço): Máquinas virtuais, redes, armazenamento.
+- **PaaS** (Plataforma como Serviço): Hospedagem de aplicativos sem necessidade de gerenciar servidores.
+- **SaaS** (Software como Serviço): Aplicativos prontos para uso na nuvem, como o Microsoft 365.
+
+## ✅ Benefícios da Azure
+- Alta escalabilidade para empresas
+- Segurança integrada
+- Redução de custos operacionais

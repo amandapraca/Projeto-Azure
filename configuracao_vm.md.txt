@@ -1,0 +1,16 @@
+# Configuração de uma Máquina Virtual na Azure
+
+## 🖥️ Criando uma Máquina Virtual
+1. Acesse o [Portal Azure](https://portal.azure.com/).
+2. Clique em **Criar um recurso** e selecione **Máquina Virtual**.
+3. Configure os seguintes parâmetros:
+   - **Sistema operacional** (Exemplo: Ubuntu 20.04)
+   - **Tipo de instância** (Exemplo: Standard_B2s)
+   - **Rede e regras de segurança**
+4. Clique em **Criar** e aguarde a implantação.
+
+## ⚙️ Configurações adicionais
+Depois da VM criada, podem ser aplicadas algumas configurações, como:
+- **Acesso remoto via SSH**
+- **Instalação de pacotes e aplicações**
+- **Monitoramento e escalabilidade**
